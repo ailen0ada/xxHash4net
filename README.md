@@ -1,6 +1,9 @@
 # xxHash4net
 C# implementation of [xxHash](https://github.com/Cyan4973/xxHash)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/6o8a5j896eq41js8?svg=true)](https://ci.appveyor.com/project/ailen0ada/xxhash4net)
+
+
 ## Usage
 xxHash4net is succeeded class of `System.Security.Cryptography.HashAlgorithm`.
 
