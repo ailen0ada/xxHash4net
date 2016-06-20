@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25402.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "System.Security.Cryptography.xxHash", "System.Security.Cryptography.xxHash\System.Security.Cryptography.xxHash.csproj", "{9AAA638D-9810-4164-A8AD-A32D6A0ED110}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xxHash4net", "xxHash4net\xxHash4net.csproj", "{9AAA638D-9810-4164-A8AD-A32D6A0ED110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xxHash4net.Tests", "xxHash4net.Tests\xxHash4net.Tests.csproj", "{6F63BF18-E7FC-43DE-9DA2-5DD0A420817D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9AAA638D-9810-4164-A8AD-A32D6A0ED110}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AAA638D-9810-4164-A8AD-A32D6A0ED110}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AAA638D-9810-4164-A8AD-A32D6A0ED110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F63BF18-E7FC-43DE-9DA2-5DD0A420817D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F63BF18-E7FC-43DE-9DA2-5DD0A420817D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F63BF18-E7FC-43DE-9DA2-5DD0A420817D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F63BF18-E7FC-43DE-9DA2-5DD0A420817D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

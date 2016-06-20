@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("System.Security.Cryptography.xxHash")]
+[assembly: AssemblyTitle("xxHash4net")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("System.Security.Cryptography.xxHash")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyProduct("xxHash4net")]
+[assembly: AssemblyCopyright("Copyright © 2016 ailen0ada")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
