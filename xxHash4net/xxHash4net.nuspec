@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+<?xml version="1.0"?>
+<package>
   <metadata>
     <id>xxHash4net</id>
     <version>$version$</version>
@@ -11,12 +11,11 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>C# implementation of xxhash based on System.Security.Cryptography.HashAlgorithm</description>
     <copyright>Copyright 2016 ailen0ada</copyright>
-    <summary />
+    <summary />    
     <language>en-US</language>
     <tags>xxhash hashalgorithm</tags>
   </metadata>
   <files>
-    <file src="..\LICENSE" target="." />
     <file src="bin\$configuration$\$id$.dll" target="lib\net4" />
     <file src="bin\$configuration$\$id$.xml" target="lib\net4" />
     <file src="bin\$configuration$\$id$.pdb" target="lib\net4" />
