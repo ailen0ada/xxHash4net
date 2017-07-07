@@ -34,9 +34,12 @@ using System.Security.Cryptography.xxHash;
 
 namespace System.Security.Cryptography
 {
-
     public sealed class xxHash32 : HashAlgorithm
     {
+        private xxHash32()
+        {
+        }
+
         private static readonly IList<uint> primes32 =
             new[] {
                 2654435761U,
