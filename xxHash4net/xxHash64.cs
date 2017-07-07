@@ -36,6 +36,9 @@ namespace System.Security.Cryptography
 {
     public sealed class xxHash64 : HashAlgorithm
     {
+        private xxHash64()
+        {
+        }
 
         private static readonly IList<ulong> primes64 =
             new[] {
